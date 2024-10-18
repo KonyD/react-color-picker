@@ -1,5 +1,7 @@
 # React Color Picker App
 
+![Screenshot](https://github.com/KonyD/react-color-picker/blob/main/src/assets/color-picker.png)
+
 ## Description
 A simple and interactive color picker application built with React. This app allows users to select colors using range inputs for RGB values, providing a user-friendly interface for selecting and displaying colors.
 
@@ -21,3 +23,10 @@ To get started with this project, clone the repository and install the necessary
 git clone https://github.com/KonyD/react-color-picker-app.git
 cd react-color-picker-app
 npm install
+```
+
+## Running The App
+To run the app locally, use the following command:
+```bash
+npm run dev
+```
