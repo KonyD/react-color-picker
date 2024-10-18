@@ -1,11 +1,11 @@
 # React Color Picker App
 
 ## Description
-A simple and interactive color picker application built with React. This app allows users to select colors from a color palette, providing a user-friendly interface for selecting and displaying colors.
+A simple and interactive color picker application built with React. This app allows users to select colors using range inputs for RGB values, providing a user-friendly interface for selecting and displaying colors.
 
 ## Features
-- **Color Palette**: Users can choose from a variety of colors.
-- **Live Preview**: Display the selected color in real time.
+- **Range Inputs**: Users can adjust the RGB values using sliders.
+- **Live Preview**: Display the selected color in real time based on the RGB values.
 - **Hex and RGB Values**: Show the selected color's hex and RGB values.
 - **Responsive Design**: Works on both desktop and mobile devices.
 
